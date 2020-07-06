@@ -1,3 +1,31 @@
-* What is this repository?
+* Profile
 
-This repository holds files for kaz-yos's personal page on =github.io=.
+I am an Associate Epidemiologist and Instructor in Medicine at Brigham and Women's Hospital and Harvard Medical School. I conduct research in the epidemiology of rheumatic diseases and epidemiological methods.
+
+My substantive focus is on (pharmaco)epidemiological studies of chronic rheumatic diseases (e.g., rheumatoid arthritis, gout), their morbidities, and treatment strategies. My methodology research aims to improve the quality of studies in this clinical area through causal inference principles.
+
+I trained as a rheumatologist in Japan, and received a Master of Public Health degree and a Joint Doctor of Science degree in Epidemiology & Biostatistics from Harvard T.H. Chan School of Public Health in Boston, USA.
+
+
+* Research
+My published research work can be found at GoogleScholar and ResearchGate.\\
+https://scholar.google.com/citations?user=8MA5AfMAAAAJ\\
+https://www.researchgate.net/profile/Kazuki_Yoshida\\
+
+Several key papers are featured below.
+
+** Substantive Research
+- [[https://pubmed.ncbi.nlm.nih.gov/32381560/][Improving Rheumatoid Arthritis Comparative Effectiveness Research Through Causal Inference Principles: Systematic Review Using a Target Trial Emulation Framework. Ann Rheum Dis. 2020.]]
+- [[https://pubmed.ncbi.nlm.nih.gov/31811708/][The roles of post‐diagnosis accumulation of morbidities and lifestyle changes on excess total and cause‐specific mortality risk in rheumatoid arthritis. Arthritis Care Res. 2019]]
+
+** Methodology Research
+- [[https://pubmed.ncbi.nlm.nih.gov/30517602/][Multinomial Extension of Propensity Score Trimming Methods: A Simulation Study. Am J Epidemiol. 2019;188:609.]]
+- [[https://pubmed.ncbi.nlm.nih.gov/28151746/][Matching Weights to Simultaneously Compare Three Treatment Groups: Comparison to Three-way Matching. Epidemiology. 2017;28:387.]]
+
+
+* Software Development
+My research software development output can be found at GitHub: https://github.com/kaz-yos I maintain the following projects.
+
+- [[https://github.com/kaz-yos/tableone][R tableone]]: Baseline patient characteristics with or without propensity score weighting.
+- [[https://github.com/kaz-yos/regmedint][R regmedint]]: R implementation of regression-based causal mediation analysis.
+- [[https://github.com/stan-dev/stan-mode][Emacs stan-mode]]: Editor support for stan program.
